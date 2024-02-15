@@ -1,3 +1,4 @@
+![logo](https://github.com/Vinodsontakke/Vinodsontakke/blob/main/Blue%20and%20White%20Neon%20Programmer%20Personal%20Branding%20Youtube%20Banner%20(1).png)
 <h1 align="center">Hi 👋, I'm Vinod Sontakke</h1>
 <h3 align="center">A passionate MERN stack developer from India</h3>
 
