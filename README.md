@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Vinod Sontakke</h1>
 <h3 align="center">A passionate MERN stack developer from India</h3>
 
-<p align="left"> <a href="https://twitter.com/@vinodsonta53344" target="blank"><img src="https://img.shields.io/twitter/follow/@vinodsonta53344?logo=twitter&style=for-the-badge" alt="@vinodsonta53344" /></a> </p>
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 - 🌱 I’m currently learning **MongoDB, Express.js, React.js, and Node.js.**
 
